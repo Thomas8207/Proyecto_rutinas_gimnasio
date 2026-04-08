@@ -21,3 +21,4 @@ class DiaEntrenamiento:
         print(f"\n--- {self.nombre_dia} ---")
         for ejercicio in self.ejercicios:
             print(ejercicio.mostrar_detalle())
+            "pene"
